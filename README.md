@@ -1,4 +1,4 @@
-# 🐍 Fundamentos de Programación en Python
+# 🐍 Fundamentos de Programación 
 
 Este repositorio contiene una colección de ejercicios prácticos y algoritmos básicos diseñados para reforzar la lógica de programación y la sintaxis de Python.
 
@@ -37,11 +37,11 @@ Para ejecutar los ejercicios que contienen `match case`, necesitas tener instala
 
 ### 👤 Autor
 **Jose Angel Márquez Ramírez**
-* Student at UPAEP 🦅
+* Estudiante en UPAEP 🦅
 * GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
 
 
-# 🐍 Python Programming Fundamentals
+# 🐍 Programming Fundamentals
 
 This repository contains a collection of practical exercises and basic algorithms designed to reinforce programming logic and Python syntax.
 
