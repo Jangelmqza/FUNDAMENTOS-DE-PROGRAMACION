@@ -35,8 +35,11 @@ Para ejecutar los ejercicios que contienen `match case`, necesitas tener instala
     python nombre_del_archivo.py
     ```
 
----
-**Autor: Jose Angel Márquez Ramírez**
+### 👤 Autor
+**Jose Angel Márquez Ramírez**
+* Student at UPAEP 🦅
+* GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
+
 
 # 🐍 Python Programming Fundamentals
 
@@ -75,5 +78,7 @@ To run exercises containing `match case`, you need to have a recent version of P
     python filename.py
     ```
 
----
-**Author: Jose Angel Márquez Ramírez** 
+### 👤 Author
+**Jose Angel Márquez Ramírez**
+* Student at UPAEP 🦅
+* GitHub: [@Jangelmqza](https://github.com/Jangelmqza)
